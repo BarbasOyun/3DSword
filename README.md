@@ -1,34 +1,18 @@
-\# Low Poly Sword
+# Low Poly Sword
 
+-Made with blender<br>
+-The Texture is painted<br>
 
+## Goals
 
--Made with blender
+-Train at modeling<br>
+-Learn Texture Painting<br>
 
--The Texture is painted
+## Images
 
-
-
-\## Goals
-
-
-
--Train at modeling
-
--Learn Texture Painting
-
-
-
-\## Images
-
-
-
-!\[Sword in unity](UnitySword.png)
-
-!\[Cool Sword](SwordRender.png)
-
-!\[Sword Texture(SwordTex.png)
-
-!\[Sword Reference](SwordReference.png)
-
-!\[Full Reference](Reference.jpg)
+![Sword in unity](UnitySword.png)
+![Cool Sword](SwordRender.png)
+![Sword Texture(SwordTex.png)
+![Sword Reference](SwordReference.png)
+![Full Reference](Reference.jpg)
 
